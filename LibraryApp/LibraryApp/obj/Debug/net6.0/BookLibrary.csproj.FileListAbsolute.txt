@@ -1,15 +1,5 @@
-C:\Users\digdr\Desktop\coding\efCoreLibrary\LibraryApp\LibraryApp\bin\Debug\net6.0\BookLibrary.exe
-C:\Users\digdr\Desktop\coding\efCoreLibrary\LibraryApp\LibraryApp\bin\Debug\net6.0\BookLibrary.deps.json
-C:\Users\digdr\Desktop\coding\efCoreLibrary\LibraryApp\LibraryApp\bin\Debug\net6.0\BookLibrary.runtimeconfig.json
-C:\Users\digdr\Desktop\coding\efCoreLibrary\LibraryApp\LibraryApp\bin\Debug\net6.0\BookLibrary.dll
-C:\Users\digdr\Desktop\coding\efCoreLibrary\LibraryApp\LibraryApp\bin\Debug\net6.0\BookLibrary.pdb
 C:\Users\digdr\Desktop\coding\efCoreLibrary\LibraryApp\LibraryApp\obj\Debug\net6.0\BookLibrary.csproj.AssemblyReference.cache
 C:\Users\digdr\Desktop\coding\efCoreLibrary\LibraryApp\LibraryApp\obj\Debug\net6.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\digdr\Desktop\coding\efCoreLibrary\LibraryApp\LibraryApp\obj\Debug\net6.0\BookLibrary.AssemblyInfoInputs.cache
 C:\Users\digdr\Desktop\coding\efCoreLibrary\LibraryApp\LibraryApp\obj\Debug\net6.0\BookLibrary.AssemblyInfo.cs
 C:\Users\digdr\Desktop\coding\efCoreLibrary\LibraryApp\LibraryApp\obj\Debug\net6.0\BookLibrary.csproj.CoreCompileInputs.cache
-C:\Users\digdr\Desktop\coding\efCoreLibrary\LibraryApp\LibraryApp\obj\Debug\net6.0\BookLibrary.dll
-C:\Users\digdr\Desktop\coding\efCoreLibrary\LibraryApp\LibraryApp\obj\Debug\net6.0\refint\BookLibrary.dll
-C:\Users\digdr\Desktop\coding\efCoreLibrary\LibraryApp\LibraryApp\obj\Debug\net6.0\BookLibrary.pdb
-C:\Users\digdr\Desktop\coding\efCoreLibrary\LibraryApp\LibraryApp\obj\Debug\net6.0\BookLibrary.genruntimeconfig.cache
-C:\Users\digdr\Desktop\coding\efCoreLibrary\LibraryApp\LibraryApp\obj\Debug\net6.0\ref\BookLibrary.dll

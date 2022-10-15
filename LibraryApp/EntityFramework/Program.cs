@@ -1,5 +1,6 @@
 ﻿using BookLibrary;
 using EntityFramework;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 
@@ -36,17 +37,25 @@ namespace EntityFramework
 
         static void Main()
         {
-            var authors = CreateFakeData();
+            var options = new DbContextOptionsBuilder<BooksContext>()
+                .UseSqlite("Filename=../../../MyLocalLibrary.db")
+                .Options;
 
-            foreach(var author in authors)
-            {
-                Console.WriteLine($"{author} wrote...");
+            using var db = new BooksContext(options);
 
-                foreach (var book in author.Books)
-                    Console.WriteLine($"  {book}");
+            db.Database.EnsureCreated();
 
-                    Console.WriteLine();
-            }
+            //var authors = CreateFakeData();
+
+            //foreach(var author in authors)
+            //{
+            //    Console.WriteLine($"{author} wrote...");
+
+            //    foreach (var book in author.Books)
+            //        Console.WriteLine($"  {book}");
+
+            //        Console.WriteLine();
+            //}
         }
     }
 }
